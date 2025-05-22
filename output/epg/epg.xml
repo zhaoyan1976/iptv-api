@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20250522035626 +0800">
+<tv date="20250522105729 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -24129,6 +24129,15 @@
 	<programme channel="黑莓动画" start="20250522095200 +0800" stop="20250522114700 +0800">
 		<title lang="zh">哆啦A梦：大雄的地球交响乐</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250522114700 +0800" stop="20250522133000 +0800">
+		<title lang="zh">机器人之梦</title>
+	</programme>
+	<programme channel="黑莓动画" start="20250522133000 +0800" stop="20250522150300 +0800">
+		<title lang="zh">功夫熊猫4</title>
+	</programme>
+	<programme channel="黑莓动画" start="20250522150300 +0800" stop="20250522163800 +0800">
+		<title lang="zh">熊出没之夺宝熊兵</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -24149,6 +24158,18 @@
 	</programme>
 	<programme channel="黑莓电影" start="20250522085800 +0800" stop="20250522102100 +0800">
 		<title lang="zh">墨菲定律</title>
+	</programme>
+	<programme channel="黑莓电影" start="20250522102100 +0800" stop="20250522115300 +0800">
+		<title lang="zh">大神猴3情劫篇</title>
+	</programme>
+	<programme channel="黑莓电影" start="20250522115300 +0800" stop="20250522132100 +0800">
+		<title lang="zh">厨神驾到</title>
+	</programme>
+	<programme channel="黑莓电影" start="20250522132100 +0800" stop="20250522150700 +0800">
+		<title lang="zh">疯狂特警队</title>
+	</programme>
+	<programme channel="黑莓电影" start="20250522150700 +0800" stop="20250522164100 +0800">
+		<title lang="zh">卧虎悍将</title>
 	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
